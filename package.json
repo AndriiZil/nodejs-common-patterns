@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-common-patterns",
+  "version": "1.0.0",
+  "description": "### 1. Module ### 2. Plugin ### 3. Singleton ### 4. Factory ### 5. Decorator ### 6. Middleware ### 7. Observable ### 8. Dependency Injection ### x.  ### x.  ### x.",
+  "main": "01_module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiZil/nodejs-common-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiZil/nodejs-common-patterns/issues"
+  },
+  "homepage": "https://github.com/AndriiZil/nodejs-common-patterns#readme",
+  "dependencies": {
+    "connect-session-knex": "^2.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  }
+}
